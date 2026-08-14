@@ -755,7 +755,7 @@
             "last_commit": "2024-04-12T11:14:12Z",
             "owner": "gta191977649",
             "repo": "MTA-VCS",
-            "stars": 29
+            "stars": 28
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-05-26T06:01:27Z",
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 434
+            "stars": 435
           }
         },
         {
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:07:00.528Z",
+    "last_updated": "2026-08-14T15:01:50.021Z",
     "original_repository": "AlexRazor1337/awesome-mta-sa",
     "original_repository_sha": "0d25ae5d18094b4168240482adedd01a4ec8ae25",
     "enhanced_repository": "enhansome/enhansome-mta-sa",
