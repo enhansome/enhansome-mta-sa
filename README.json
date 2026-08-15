@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-11T11:39:16Z",
+            "last_commit": "2026-08-15T11:31:05Z",
             "owner": "thisdp",
             "repo": "dgs",
             "stars": 64
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:01:50.021Z",
+    "last_updated": "2026-08-15T14:32:15.724Z",
     "original_repository": "AlexRazor1337/awesome-mta-sa",
     "original_repository_sha": "0d25ae5d18094b4168240482adedd01a4ec8ae25",
     "enhanced_repository": "enhansome/enhansome-mta-sa",
