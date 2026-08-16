@@ -83,7 +83,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Gamemodes
 
-* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 113 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
+* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 114 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
 * [mtadayz](https://github.com/NullSystemWorks/mtadayz) ⚠️ Archived - Official MTA:DayZ Repository.
 * [XyzzyRP](https://github.com/lpiob/MTA-XyzzyRP) ⭐ 48 | 🐛 267 | 🌐 PHP | 📅 2023-08-17 - RP gamemode  for MTA, written mainly in LUA, based on the MySQL database.
 * [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) ⚠️ Archived - Racing roleplay gamemode for Multi Theft Auto.
@@ -106,15 +106,15 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Lua
 
-* [lume](https://github.com/rxi/lume) ⭐ 1,237 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
+* [lume](https://github.com/rxi/lume) ⭐ 1,238 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
 * [batteries](https://github.com/1bardesign/batteries) ⭐ 435 | 🐛 3 | 🌐 Lua | 📅 2026-05-26 - Reusable dependencies for games made with lua.
-* [lua-class](https://github.com/misterquestions/lua-class) ⭐ 21 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
+* [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
 ## Other
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 72 | 🌐 C# | 📅 2026-08-11 - C# implementation of an MTA San Andreas Server.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 72 | 🌐 C# | 📅 2026-08-15 - C# implementation of an MTA San Andreas Server.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 * [mtasa-docker](https://github.com/4O4/mtasa-docker) ⭐ 21 | 🐛 2 | 🌐 Shell | 📅 2024-09-09 - Unofficial Docker image for MTA:SA game server.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
