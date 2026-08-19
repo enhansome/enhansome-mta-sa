@@ -40,7 +40,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Shaders
 
-* [MTASA-SkyGfx](https://github.com/gta191977649/MTASA-SkyGfx) ⭐ 30 | 🐛 3 | 🌐 Lua | 📅 2024-10-24 - A project that brings the classic aesthetic look to MTA.
+* [MTASA-SkyGfx](https://github.com/gta191977649/MTASA-SkyGfx) ⭐ 31 | 🐛 3 | 🌐 Lua | 📅 2024-10-24 - A project that brings the classic aesthetic look to MTA.
 * [MTA-Anime-Shader](https://github.com/gta191977649/MTA-Anime-Shader) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2022-06-12 -  Anime Toon shader.
 * [MTA-VHS](https://github.com/gta191977649/MTA-VHS) ⭐ 8 | 🐛 0 | 🌐 HLSL | 📅 2021-05-24 - A VHS effect shader.
 * [MTA-PS2](https://github.com/gta191977649/MTA-PS2) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2021-04-06 - PS2-like shader for MTA:SA.
@@ -106,8 +106,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Lua
 
-* [lume](https://github.com/rxi/lume) ⭐ 1,239 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
-* [batteries](https://github.com/1bardesign/batteries) ⭐ 435 | 🐛 3 | 🌐 Lua | 📅 2026-05-26 - Reusable dependencies for games made with lua.
+* [lume](https://github.com/rxi/lume) ⭐ 1,238 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
+* [batteries](https://github.com/1bardesign/batteries) ⭐ 435 | 🐛 3 | 🌐 Lua | 📅 2026-08-19 - Reusable dependencies for games made with lua.
 * [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
 ## Other
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
