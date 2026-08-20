@@ -83,7 +83,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Gamemodes
 
-* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 114 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
+* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 115 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
 * [mtadayz](https://github.com/NullSystemWorks/mtadayz) ⚠️ Archived - Official MTA:DayZ Repository.
 * [XyzzyRP](https://github.com/lpiob/MTA-XyzzyRP) ⭐ 48 | 🐛 267 | 🌐 PHP | 📅 2023-08-17 - RP gamemode  for MTA, written mainly in LUA, based on the MySQL database.
 * [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) ⚠️ Archived - Racing roleplay gamemode for Multi Theft Auto.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
