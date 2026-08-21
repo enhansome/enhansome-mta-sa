@@ -555,7 +555,7 @@
             "archived": false,
             "id": 32398265,
             "language": "Lua",
-            "last_commit": "2026-08-09T13:25:55Z",
+            "last_commit": "2026-08-21T13:37:15Z",
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 186
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:47:04.561Z",
+    "last_updated": "2026-08-21T14:46:12.869Z",
     "original_repository": "AlexRazor1337/awesome-mta-sa",
     "original_repository_id": 418438038,
     "original_repository_sha": "0d25ae5d18094b4168240482adedd01a4ec8ae25",
