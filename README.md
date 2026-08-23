@@ -48,7 +48,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Libs and utils
 
 * [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 81 | 🐛 5 | 🌐 Lua | 📅 2026-08-02 - Lets you add new models to your server.
-* [dgs](https://github.com/thisdp/dgs) ⭐ 64 | 🐛 4 | 🌐 Lua | 📅 2026-08-15 - Thisdp's Dx Graphical User Interface System.
+* [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 4 | 🌐 Lua | 📅 2026-08-15 - Thisdp's Dx Graphical User Interface System.
 * [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
 * [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 22 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
 * [MTA-dxGUI](https://github.com/TheNormalnij/MTA-dxGUI) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2022-02-28 - Cool and powerfull dxGUI library for MTA.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
