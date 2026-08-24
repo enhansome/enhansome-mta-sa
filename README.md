@@ -51,8 +51,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 * [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 4 | 🌐 Lua | 📅 2026-08-15 - Thisdp's Dx Graphical User Interface System.
 * [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
 * [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 22 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
-* [MTA-dxGUI](https://github.com/TheNormalnij/MTA-dxGUI) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2022-02-28 - Cool and powerfull dxGUI library for MTA.
 * [3D-editor](https://github.com/Derbosik/3DEditor) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2025-01-23 - Easy-to-use tool for editing 3D objects positions.
+* [MTA-dxGUI](https://github.com/TheNormalnij/MTA-dxGUI) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2022-02-28 - Cool and powerfull dxGUI library for MTA.
 * [MTA\_2FA-lib](https://github.com/Inder00/MTA_2FA-lib) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2021-05-17 - Two factor auth library.
 * [ConGuard](https://github.com/Lpsd/ConGuard) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2022-08-11 - Network/connection helper for MTA:SA.
 * [Bootloader](https://github.com/botder/mtasa-bootloader) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2021-06-25 - A resource for server bootloading and resource keep-alive.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
