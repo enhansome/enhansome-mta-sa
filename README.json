@@ -684,7 +684,7 @@
             "last_commit": "2018-01-27T17:09:28Z",
             "owner": "nbredikhin",
             "repo": "drift-paradise-mta",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1239
+            "stars": 1240
           }
         },
         {
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:52:52.535Z",
+    "last_updated": "2026-08-25T06:33:40.188Z",
     "original_repository": "AlexRazor1337/awesome-mta-sa",
     "original_repository_id": 418438038,
     "original_repository_sha": "0d25ae5d18094b4168240482adedd01a4ec8ae25",
