@@ -12,7 +12,7 @@
             "archived": false,
             "id": 428704737,
             "language": "Lua",
-            "last_commit": "2026-08-02T06:25:46Z",
+            "last_commit": "2026-08-26T00:46:01Z",
             "owner": "Fernando-A-Rocha",
             "repo": "mta-add-models",
             "stars": 81
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 428704737,
             "language": "Lua",
-            "last_commit": "2026-08-02T06:25:46Z",
+            "last_commit": "2026-08-26T00:46:01Z",
             "owner": "Fernando-A-Rocha",
             "repo": "mta-add-models",
             "stars": 81
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:55:34.374Z",
+    "last_updated": "2026-08-26T14:54:25.115Z",
     "original_repository": "AlexRazor1337/awesome-mta-sa",
     "original_repository_id": 418438038,
     "original_repository_sha": "0d25ae5d18094b4168240482adedd01a4ec8ae25",
