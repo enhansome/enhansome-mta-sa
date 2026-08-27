@@ -29,7 +29,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Resources
 
-* [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 81 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - easy loading of new models, custom editor to place new objects.
+* [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 82 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - easy loading of new models, custom editor to place new objects.
 * [mtasa-chat2](https://github.com/nrzull/mtasa-chat2) ⚠️ Archived - CEF implementation of MTA:SA chat with some new features.
 * [gradmin](https://github.com/rifleh700/gradmin) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2021-07-10 - Alternative admin panel for MTA:SA.
 * [aibots](https://github.com/DimDey/aibots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2020-11-15 - A resource for manipulating and creating an artificial player who can shoot, chase or search for his target.
@@ -47,7 +47,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Libs and utils
 
-* [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 81 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - Lets you add new models to your server.
+* [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 82 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - Lets you add new models to your server.
 * [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 4 | 🌐 Lua | 📅 2026-08-15 - Thisdp's Dx Graphical User Interface System.
 * [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
 * [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 22 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
