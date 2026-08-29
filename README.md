@@ -48,7 +48,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Libs and utils
 
 * [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 82 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - Lets you add new models to your server.
-* [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 4 | 🌐 Lua | 📅 2026-08-15 - Thisdp's Dx Graphical User Interface System.
+* [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 4 | 🌐 Lua | 📅 2026-08-29 - Thisdp's Dx Graphical User Interface System.
 * [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
 * [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 22 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
 * [3D-editor](https://github.com/Derbosik/3DEditor) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2025-01-23 - Easy-to-use tool for editing 3D objects positions.

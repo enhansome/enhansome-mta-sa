@@ -326,7 +326,7 @@
             "id": 98091929,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-15T11:31:05Z",
+            "last_commit": "2026-08-29T16:21:07Z",
             "open_issues": 4,
             "owner": "thisdp",
             "repo": "dgs",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:41.010Z",
+    "last_updated": "2026-08-29T17:40:06.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
@@ -1826,7 +1826,7 @@
       "open_issues": 1,
       "owner": "AlexRazor1337",
       "repo": "awesome-mta-sa",
-      "stars": 91,
+      "stars": 92,
       "topics": [
         "awesome",
         "awesome-list",
