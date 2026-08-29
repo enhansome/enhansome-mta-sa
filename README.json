@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi Theft Auto: San Andreas resource for adding new models to a server",
+            "homepage": null,
             "id": 428704737,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T00:46:01Z",
+            "open_issues": 3,
             "owner": "Fernando-A-Rocha",
             "repo": "mta-add-models",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "add",
+              "andreas",
+              "lua",
+              "mod",
+              "mta",
+              "multiplayer",
+              "new",
+              "objects",
+              "peds",
+              "sa",
+              "samp",
+              "san",
+              "skins",
+              "vehicles",
+              "weapons"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -26,12 +47,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CEF chat for Multi Theft Auto: San Andreas",
+            "homepage": null,
             "id": 192101573,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-09-22T10:44:16Z",
+            "open_issues": 0,
             "owner": "nrzull",
             "repo": "mtasa-chat2",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "chat",
+              "gta",
+              "mtasa",
+              "multitheftauto"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -42,12 +73,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alternative admin panel for MTA:SA",
+            "homepage": null,
             "id": 364642433,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-07-10T12:29:15Z",
+            "open_issues": 1,
             "owner": "rifleh700",
             "repo": "gradmin",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "admin",
+              "lua",
+              "mta",
+              "mtasa",
+              "multitheftauto"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -58,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource for manipulating and creating an artificial bot who can shoot, chase or search for his target",
+            "homepage": null,
             "id": 261322212,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-11-15T15:28:32Z",
+            "open_issues": 0,
             "owner": "DimDey",
             "repo": "aibots",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -74,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 416922975,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-10-13T23:38:37Z",
+            "open_issues": 0,
             "owner": "httpRick",
             "repo": "lockpick",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cl_drawperf (Fivem) for MTA and resource monitoring",
+            "homepage": null,
             "id": 437700303,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-12-13T01:41:59Z",
+            "open_issues": 0,
             "owner": "jmcdutra",
             "repo": "mta-cl_performance",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -106,12 +163,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi Theft Auto Remastered HUD",
+            "homepage": null,
             "id": 197614954,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-08-20T02:02:11Z",
+            "open_issues": 4,
             "owner": "Haxardous",
             "repo": "mtasa-remastered-hud",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "mta",
+              "mta-sa",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -128,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project brings the classic aesthetic look to MTA",
+            "homepage": null,
             "id": 453469061,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-24T14:05:44Z",
+            "open_issues": 3,
             "owner": "gta191977649",
             "repo": "MTASA-SkyGfx",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -144,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anime Toon shader for MTASA",
+            "homepage": null,
             "id": 466763665,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-06-12T13:06:19Z",
+            "open_issues": 0,
             "owner": "gta191977649",
             "repo": "MTA-Anime-Shader",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -160,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a VHS shader for mtasa",
+            "homepage": null,
             "id": 370426277,
             "language": "HLSL",
+            "license": null,
             "last_commit": "2021-05-24T17:02:29Z",
+            "open_issues": 0,
             "owner": "gta191977649",
             "repo": "MTA-VHS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -176,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intergrate PS2 Graphic Goodies into MTASA",
+            "homepage": null,
             "id": 355261041,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-04-06T16:45:11Z",
+            "open_issues": 0,
             "owner": "gta191977649",
             "repo": "MTA-PS2",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -198,12 +284,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi Theft Auto: San Andreas resource for adding new models to a server",
+            "homepage": null,
             "id": 428704737,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T00:46:01Z",
+            "open_issues": 3,
             "owner": "Fernando-A-Rocha",
             "repo": "mta-add-models",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "add",
+              "andreas",
+              "lua",
+              "mod",
+              "mta",
+              "multiplayer",
+              "new",
+              "objects",
+              "peds",
+              "sa",
+              "samp",
+              "san",
+              "skins",
+              "vehicles",
+              "weapons"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -214,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thisdp's Dx Graphical User Interface System (MTA Dx Lib)",
+            "homepage": "http://wiki.mtasa.com/wiki/dgs",
             "id": 98091929,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-15T11:31:05Z",
+            "open_issues": 4,
             "owner": "thisdp",
             "repo": "dgs",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -230,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized bone attach thanks to the new MTA functions/events.",
+            "homepage": null,
             "id": 355325990,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-31T19:34:26Z",
+            "open_issues": 1,
             "owner": "gptrk0",
             "repo": "mtasa-pAttach",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -246,12 +363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautify.library ━ DirectX Version",
+            "homepage": "https://ov-mta.gitbook.io/beautify-library",
             "id": 332025648,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-07T05:28:11Z",
+            "open_issues": 5,
             "owner": "ov-sa",
             "repo": "Beautify.library",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "design",
+              "library",
+              "mta-dev",
+              "ov",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -262,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 677131577,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-23T11:03:20Z",
+            "open_issues": 0,
             "owner": "YelehaUwU",
             "repo": "3DEditor",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -278,12 +411,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cool and powerfull dxGUI library for MTA",
+            "homepage": null,
             "id": 148075500,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-28T22:13:17Z",
+            "open_issues": 0,
             "owner": "TheNormalnij",
             "repo": "MTA-dxGUI",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "mtasa-lua"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -294,12 +434,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Two factor library (MTA:SA Lib)",
+            "homepage": null,
             "id": 368281260,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-05-17T18:39:55Z",
+            "open_issues": 0,
             "owner": "MultiRPG",
             "repo": "MTA_2FA-Lib",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "lua",
+              "mta",
+              "mta-server",
+              "mtasa",
+              "mtasa-lua"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -310,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network/connection helper for MTA:SA",
+            "homepage": null,
             "id": 252591295,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2022-08-11T19:01:46Z",
+            "open_issues": 0,
             "owner": "Lpsd",
             "repo": "ConGuard",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -326,12 +482,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource for server bootloading and resource keep-alive for a Multi Theft Auto server",
+            "homepage": null,
             "id": 380103557,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-06-25T04:04:01Z",
+            "open_issues": 0,
             "owner": "botder",
             "repo": "mtasa-bootloader",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "bootloader",
+              "lua",
+              "mtasa",
+              "mtasa-resource",
+              "multi-theft-auto",
+              "scripting"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -342,12 +510,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBify,library",
+            "homepage": null,
             "id": 206715881,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-07T05:27:58Z",
+            "open_issues": 0,
             "owner": "ov-sa",
             "repo": "DBify.library",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "account",
+              "database",
+              "library",
+              "mta-dev",
+              "mysql",
+              "orm",
+              "ov",
+              "serial"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -358,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This was made to facilitate the use of Discord Webhook API on MTA servers",
+            "homepage": null,
             "id": 288000556,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-08-17T00:36:24Z",
+            "open_issues": 0,
             "owner": "yassinehemissi",
             "repo": "mta-discord-webhook-library",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -374,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools that allow operating on binary files, written in pure lua.",
+            "homepage": null,
             "id": 141907020,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-07-22T21:47:42Z",
+            "open_issues": 0,
             "owner": "forkerer",
             "repo": "MTA-BinaryDataTools",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -390,12 +582,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MTA-SA Custom map loader.",
+            "homepage": null,
             "id": 276711123,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-02-08T09:26:37Z",
+            "open_issues": 4,
             "owner": "Wolfee-J",
             "repo": "MTA-Stream",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "mta",
+              "mtasa",
+              "multitheftauto",
+              "streamer"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -406,12 +608,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argument lua-type\\userdata-type\\element-type checking lib for MTA:SA",
+            "homepage": null,
             "id": 295224595,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2021-01-19T17:44:48Z",
+            "open_issues": 0,
             "owner": "rifleh700",
             "repo": "check",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "arg",
+              "check",
+              "lua",
+              "mta",
+              "mtasa",
+              "multitheftauto",
+              "type"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -422,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 330257525,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-05-13T10:19:19Z",
+            "open_issues": 0,
             "owner": "fresholia",
             "repo": "mtasa-resource-compiler",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -438,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 329381264,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-01-13T21:43:23Z",
+            "open_issues": 0,
             "owner": "fresholia",
             "repo": "mtasa-git-resource-updater",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -454,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 208142682,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-09-24T22:10:04Z",
+            "open_issues": 0,
             "owner": "httpRick",
             "repo": "SA-Menu",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -470,12 +700,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse Engineered GTA:SA Escalators in Lua",
+            "homepage": null,
             "id": 384172144,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-07-08T21:27:15Z",
+            "open_issues": 0,
             "owner": "jayceon123",
             "repo": "mta-escalator",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "escalator",
+              "gta",
+              "mta"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -486,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 207027424,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-07-05T14:41:59Z",
+            "open_issues": 4,
             "owner": "Allerek",
             "repo": "MTASA-NativeUI",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -502,12 +746,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SA-MP Object Library & Map Loader for Multi Theft Auto: San Andreas",
+            "homepage": "https://sa-roleplay.net/",
             "id": 426700355,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-20T23:42:42Z",
+            "open_issues": 0,
             "owner": "Fernando-A-Rocha",
             "repo": "mta-samp-obj",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "andreas",
+              "mp",
+              "mta",
+              "multiplayer",
+              "samp",
+              "san"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -518,12 +774,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(Beta) You want to add lights inside the MTA:SA Map Editor? You've come to the right place. This resource is still a beta release and under construction. Use at your own peril.",
+            "homepage": "https://community.multitheftauto.com/index.php?p=resources&s=details&id=18531",
             "id": 396514954,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-08-22T12:17:05Z",
+            "open_issues": 0,
             "owner": "patrikjuvonen",
             "repo": "editor_addon_lights",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "lua",
+              "mtasa",
+              "mtasa-edf",
+              "mtasa-lua",
+              "mtasa-resource",
+              "multi-theft-auto",
+              "scripting"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -534,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 170867735,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-08-24T15:08:37Z",
+            "open_issues": 0,
             "owner": "Loki214",
             "repo": "mtasa-utilities",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -550,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indicators system written in lua, able to display hundreds of indicators without lags.",
+            "homepage": null,
             "id": 122264785,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-02-21T15:53:18Z",
+            "open_issues": 0,
             "owner": "forkerer",
             "repo": "MTA-indicators",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -566,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 50213008,
             "language": "Lua",
+            "license": null,
             "last_commit": "2016-10-18T08:27:31Z",
+            "open_issues": 0,
             "owner": "prnxdev",
             "repo": "MTA_rounded_rectangle",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -588,12 +872,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project maintains a list of up-to-date resources that come with Multi Theft Auto.",
+            "homepage": "https://multitheftauto.com",
             "id": 32398265,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:37:15Z",
+            "open_issues": 29,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "lua",
+              "mtasa",
+              "mtasa-lua",
+              "mtasa-resource",
+              "multi-theft-auto",
+              "scripting"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -604,12 +900,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).",
+            "homepage": "https://mrgreengaming.com",
             "id": 43056710,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-07-16T09:16:34Z",
+            "open_issues": 6,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -620,12 +921,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of various resources for MTA",
+            "homepage": null,
             "id": 42399223,
             "language": "TeX",
+            "license": "GPL-3.0",
             "last_commit": "2020-08-30T09:34:22Z",
+            "open_issues": 0,
             "owner": "tederis",
             "repo": "mta-resources",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "gta",
+              "mtasa",
+              "tct",
+              "terrain-editor"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -636,12 +947,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MTA:SA resources by CrystalMV.",
+            "homepage": null,
             "id": 214754481,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-06T16:28:09Z",
+            "open_issues": 0,
             "owner": "jlillis",
             "repo": "crystalmv-resources",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "lua",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -652,12 +971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 143655129,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2020-04-03T14:28:46Z",
+            "open_issues": 0,
             "owner": "truestm",
             "repo": "mtapub",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -674,12 +998,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OwlGaming roleplay script for Multi Theft Auto on GTA:SA",
+            "homepage": "https://owlgaming.net",
             "id": 388286654,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2024-06-21T18:37:38Z",
+            "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "gaming",
+              "gta",
+              "mta",
+              "mtasa",
+              "owl",
+              "owlgaming",
+              "roleplay"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -690,12 +1027,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official MTA:DayZ Repository",
+            "homepage": null,
             "id": 82748264,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2020-02-22T14:56:30Z",
+            "open_issues": 21,
             "owner": "NullSystemWorks",
             "repo": "mtadayz",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "dayz",
+              "gamemodes",
+              "mta",
+              "mta-dayz"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -706,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gamemod RP do gry Multi Theft Auto, napisany głównie w języku LUA, w oparciu o bazę danych MySQL. Stworzony oryginalnie w 2012 roku i rozwijany dalej na potrzeby serwera http://lss-rp.pl/",
+            "homepage": null,
             "id": 12156002,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-17T12:02:27Z",
+            "open_issues": 267,
             "owner": "lpiob",
             "repo": "MTA-XyzzyRP",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -722,12 +1074,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Racing roleplay gamemode for Multi Theft Auto. ",
+            "homepage": null,
             "id": 71735608,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-01-27T17:09:28Z",
+            "open_issues": 0,
             "owner": "nbredikhin",
             "repo": "drift-paradise-mta",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "gamemode",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -738,12 +1098,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MTA: The Exclusion Zone",
+            "homepage": null,
             "id": 241127545,
             "language": "TeX",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-17T15:51:48Z",
+            "open_issues": 0,
             "owner": "tederis",
             "repo": "theexzone",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "gtasa",
+              "mtasa",
+              "stalker"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -754,12 +1123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vultaic Multigamemode for MTA:SA",
+            "homepage": null,
             "id": 265543997,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-11-07T16:36:00Z",
+            "open_issues": 0,
             "owner": "rasikhq",
             "repo": "Vultaic-MGM",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -770,12 +1144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sandbox post-apocalyptic MMO gamemode for MTA San Andreas",
+            "homepage": null,
             "id": 164418577,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-04-11T15:36:01Z",
+            "open_issues": 1,
             "owner": "Zorangeorge",
             "repo": "MTA-Dystopia-The-Incident",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -786,12 +1165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 70522000,
             "language": "Lua",
+            "license": null,
             "last_commit": "2016-10-10T19:49:39Z",
+            "open_issues": 0,
             "owner": "WorriedMan",
             "repo": "-jericho-",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -802,12 +1186,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MTA Rust-like gamemode",
+            "homepage": null,
             "id": 48930163,
             "language": "Lua",
+            "license": null,
             "last_commit": "2017-06-28T19:03:27Z",
+            "open_issues": 0,
             "owner": "nbredikhin",
             "repo": "rust-mta",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "gamemode",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -818,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 316089063,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-11-26T01:04:42Z",
+            "open_issues": 0,
             "owner": "Wolfee-J",
             "repo": "MTA_War",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -840,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vice City Stories Map Converted Into MTASA",
+            "homepage": null,
             "id": 353072700,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-04-12T11:14:12Z",
+            "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -856,12 +1258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "export map from mafia 2 for gta san andreas",
+            "homepage": null,
             "id": 204751198,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-07-09T16:55:54Z",
+            "open_issues": 1,
             "owner": "Vadya963",
             "repo": "MTA-map_mafia2",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "mafia2",
+              "mta",
+              "mta-sa",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -872,12 +1284,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vice City modification for MTA SA",
+            "homepage": null,
             "id": 141443120,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-07-01T21:54:00Z",
+            "open_issues": 2,
             "owner": "Wolfee-J",
             "repo": "MTA-Vice-City",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "mta-stream",
+              "multitheftauto",
+              "vicecity"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -888,12 +1309,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 141445885,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-07-01T23:48:18Z",
+            "open_issues": 1,
             "owner": "Wolfee-J",
             "repo": "JLiberty-City",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "liberty-city",
+              "mta-stream-map",
+              "multitheftauto"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -904,12 +1334,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 141448950,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-06-27T22:59:51Z",
+            "open_issues": 0,
             "owner": "Wolfee-J",
             "repo": "Alien-City-MTA",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "mta-stream-map"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -920,12 +1357,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grid Testing Map",
+            "homepage": null,
             "id": 141449867,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-06-27T23:01:13Z",
+            "open_issues": 0,
             "owner": "Wolfee-J",
             "repo": "JGrid-Map",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "mta-stream-map"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -936,12 +1380,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 141450699,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-06-27T22:58:39Z",
+            "open_issues": 0,
             "owner": "Wolfee-J",
             "repo": "JGrand-Carmageddon",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "mta-stream-map"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -958,12 +1409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua functions geared towards gamedev",
+            "homepage": null,
             "id": 17262930,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-11-19T23:59:15Z",
+            "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1240
+            "stars": 1240,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -974,12 +1430,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reusable dependencies for games made with lua (especially with love)",
+            "homepage": null,
             "id": 236895355,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2026-08-27T05:55:08Z",
+            "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "framework",
+              "helper",
+              "love2d",
+              "lua",
+              "lua-library"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -990,12 +1457,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to add support for OOP on Lua with a really nice and elegant style",
+            "homepage": null,
             "id": 291564524,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-02-18T02:24:43Z",
+            "open_issues": 0,
             "owner": "misterquestions",
             "repo": "lua-class",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "library",
+              "love2d",
+              "lua",
+              "multitheftauto",
+              "oop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -1012,12 +1490,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compatibility layer allowing you to run unmodified SA:MP 0.3.7 gamemodes, filterscripts and plugins on Multi Theft Auto: San Andreas.",
+            "homepage": null,
             "id": 268352700,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2026-06-24T23:31:38Z",
+            "open_issues": 16,
             "owner": "multitheftauto",
             "repo": "amx",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "multi-theft-auto",
+              "sa-mp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1028,12 +1514,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slipe - C# for MTA",
+            "homepage": "https://mta-slipe.com/",
             "id": 174223934,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-19T20:03:44Z",
+            "open_issues": 4,
             "owner": "mta-slipe",
             "repo": "Slipe-Core",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "csharplua",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1044,12 +1538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# MTA Server",
+            "homepage": null,
             "id": 274758941,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-16T16:43:12Z",
+            "open_issues": 72,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1060,12 +1559,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The server extension for MTA:SA that adds a navigation mesh",
+            "homepage": null,
             "id": 706158214,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-28T13:39:00Z",
+            "open_issues": 0,
             "owner": "tederis",
             "repo": "mtasa-detour",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "lua",
+              "mtasa",
+              "navigation",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1076,12 +1585,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code MTA:SA Lua Syntax Highlighter and Companion",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=subtixx.mtasa-lua",
             "id": 121019549,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-08T09:58:58Z",
+            "open_issues": 6,
             "owner": "Subtixx",
             "repo": "vscode-mtalua",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "mta-sa",
+              "mtasa",
+              "multitheftauto",
+              "visual-studio-code",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1092,12 +1613,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Docker image for Multi Theft Auto: San Andreas game server",
+            "homepage": "https://hub.docker.com/r/notfound/mtasa-server",
             "id": 231264440,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-09-09T14:53:23Z",
+            "open_issues": 2,
             "owner": "4O4",
             "repo": "mtasa-docker",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "docker",
+              "docker-image",
+              "lua",
+              "mta",
+              "multi-theft-auto"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1108,12 +1640,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Boy (Color) emulator for Multi Theft Auto",
+            "homepage": null,
             "id": 184858770,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-25T01:04:41Z",
+            "open_issues": 1,
             "owner": "MegadreamsBE",
             "repo": "mta-gb",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cgb",
+              "cgb-emulator",
+              "emulation",
+              "emulator",
+              "gameboy",
+              "lua",
+              "multitheftauto"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1124,12 +1669,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "External MTA Discord Rich Presence Manager",
+            "homepage": null,
             "id": 329745932,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-09-22T19:26:21Z",
+            "open_issues": 2,
             "owner": "pkfln",
             "repo": "mta-discord-rpc",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "andreas",
+              "auto",
+              "discord",
+              "mta",
+              "mta-discord-rpc",
+              "multi",
+              "presence",
+              "rich",
+              "rpc",
+              "san",
+              "status",
+              "theft"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1140,12 +1703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library created with the purpose of streamlining development, enabling developers to establish a direct connection with MTA:SA more efficiently.",
+            "homepage": null,
             "id": 669682464,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-26T16:36:27Z",
+            "open_issues": 0,
             "owner": "imfelipedev",
             "repo": "mta-sdk",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1156,12 +1724,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool written on Python to help you work with MTA resources.",
+            "homepage": null,
             "id": 237524890,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-16T12:12:11Z",
+            "open_issues": 2,
             "owner": "AlexRazor1337",
             "repo": "MTA-Resource-Tool",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "mta",
+              "python",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1172,12 +1749,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "50p Sublime Text 3 Package",
+            "homepage": null,
             "id": 253272902,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-03T04:29:58Z",
+            "open_issues": 0,
             "owner": "Vadya963",
             "repo": "50pSublimeText3Package",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "mta",
+              "mta-sa",
+              "mtasa"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1188,12 +1774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 534616902,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-09-10T10:26:03Z",
+            "open_issues": 0,
             "owner": "marty000123",
             "repo": "Marty-s-MTA-SA-Map-Cut-Tool",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1204,12 +1795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple application to create blank resource for MTA:SA.",
+            "homepage": null,
             "id": 409404256,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-23T01:33:52Z",
+            "open_issues": 0,
             "owner": "matheustkn",
             "repo": "MTA-Resource-Generator",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         }
@@ -1218,15 +1814,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:16.305Z",
+    "last_updated": "2026-08-29T05:01:41.010Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of free/opensource MTA:SA resources.",
+      "homepage": null,
       "id": 418438038,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-02-03T13:20:55Z",
+      "open_issues": 1,
       "owner": "AlexRazor1337",
       "repo": "awesome-mta-sa",
-      "stars": 91
+      "stars": 91,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lua",
+        "mta",
+        "mta-lua",
+        "mta-sa",
+        "mtalua",
+        "mtasa",
+        "mtasa-resource",
+        "multitheftauto"
+      ]
     },
     "original_repository_sha": "0d25ae5d18094b4168240482adedd01a4ec8ae25",
     "enhanced_repository": "enhansome/enhansome-mta-sa",
