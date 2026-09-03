@@ -878,7 +878,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-08-21T13:37:15Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 185,
@@ -1246,7 +1246,7 @@
             "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1240,
+            "stars": 1241,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:50:36.342Z",
+    "last_updated": "2026-09-03T17:47:57.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",

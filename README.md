@@ -75,7 +75,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Resource collections
 
-* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 185 | 🐛 37 | 🌐 Lua | 📅 2026-08-21 - List of up-to-date resources that come with Multi Theft Auto.
+* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 185 | 🐛 38 | 🌐 Lua | 📅 2026-08-21 - List of up-to-date resources that come with Multi Theft Auto.
 * [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 6 | 🌐 Lua | 📅 2026-07-16 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 35 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
@@ -96,7 +96,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Maps
 
-* [MTA-VCS](https://github.com/gta191977649/MTA-VCS) ⭐ 28 | 🐛 2 | 🌐 Lua | 📅 2024-04-12 - Vice City Stories map for use with [MTA Stream Improved](https://github.com/gta191977649/MTA-Stream) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2022-02-08.
+* [MTA-VCS](https://github.com/gta191977649/MTA-VCS) ⭐ 29 | 🐛 2 | 🌐 Lua | 📅 2024-04-12 - Vice City Stories map for use with [MTA Stream Improved](https://github.com/gta191977649/MTA-Stream) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2022-02-08.
 * [MTA-map mafia2](https://github.com/Vadya963/MTA-map_mafia2) ⭐ 24 | 🐛 1 | 🌐 Lua | 📅 2023-07-09 - Mafia 2 map convert to MTA.
 * [JVice City](https://github.com/Wolfee-J/MTA-Vice-City) ⭐ 17 | 🐛 2 | 🌐 Lua | 📅 2020-07-01 - Vice City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08.
 * [JLiberty City](https://github.com/Wolfee-J/JLiberty-City) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2020-07-01 - Liberty City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08.
@@ -106,7 +106,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Lua
 
-* [lume](https://github.com/rxi/lume) ⭐ 1,240 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
+* [lume](https://github.com/rxi/lume) ⭐ 1,241 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
 * [batteries](https://github.com/1bardesign/batteries) ⭐ 436 | 🐛 4 | 🌐 Lua | 📅 2026-08-27 - Reusable dependencies for games made with lua.
 * [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
