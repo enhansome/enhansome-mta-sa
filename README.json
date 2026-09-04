@@ -632,6 +632,27 @@
         },
         {
           "node_type": "item",
+          "title": "mtasa-git-resource-updater",
+          "description": "Remotely update the system you publish on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 329381264,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2021-01-13T21:43:23Z",
+            "open_issues": 0,
+            "owner": "fresholia",
+            "repo": "mtasa-git-resource-updater",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
           "title": "SA Menu",
           "description": "GTA:SA like menu.",
           "children": [],
@@ -667,27 +688,6 @@
             "open_issues": 0,
             "owner": "fresholia",
             "repo": "mtasa-resource-compiler",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mtasa-git-resource-updater",
-          "description": "Remotely update the system you publish on GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 329381264,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2021-01-13T21:43:23Z",
-            "open_issues": 0,
-            "owner": "fresholia",
-            "repo": "mtasa-git-resource-updater",
             "stars": 6,
             "topics": []
           },
@@ -877,8 +877,8 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-21T13:37:15Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-04T13:43:20Z",
+            "open_issues": 34,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 185,
@@ -1083,7 +1083,7 @@
             "open_issues": 0,
             "owner": "nbredikhin",
             "repo": "drift-paradise-mta",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "gamemode",
               "mtasa"
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1241,
+            "stars": 1242,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:47:57.886Z",
+    "last_updated": "2026-09-04T17:33:30.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",

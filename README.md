@@ -61,9 +61,9 @@ To add any resource just create a pull request. If you are adding a resource, it
 * [MTA-BinaryDataTools](https://github.com/forkerer/MTA-BinaryDataTools) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2018-07-22 - This resource gives ability to work on binary data formats.
 * [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08 - MTA-SA Custom map loader.
 * [check](https://github.com/rifleh700/check) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2021-01-19 - Simple Lua/MTA argument type checking lib for MTA:SA.
+* [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2021-01-13 - Remotely update the system you publish on GitHub.
 * [SA Menu](https://github.com/httpRick/SA-Menu) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2019-09-24 - GTA:SA like menu.
 * [mtasa-resource-compiler](https://github.com/cleoppa/mtasa-resource-compiler) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2021-05-13 - Encrypt all files on your resource.
-* [mtasa-git-resource-updater](https://github.com/cleoppa/mtasa-git-resource-updater) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2021-01-13 - Remotely update the system you publish on GitHub.
 * [MTA Escalator](https://github.com/jayceon123/mta-escalator) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2021-07-08 - Reverse Engineered GTA:SA Escalators in Lua.
 * [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) ⚠️ Archived - GTA:V style menus.
 * [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) ⭐ 5 | 🐛 0 | 📅 2021-11-20 - Load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
@@ -75,7 +75,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Resource collections
 
-* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 185 | 🐛 38 | 🌐 Lua | 📅 2026-08-21 - List of up-to-date resources that come with Multi Theft Auto.
+* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 185 | 🐛 34 | 🌐 Lua | 📅 2026-09-04 - List of up-to-date resources that come with Multi Theft Auto.
 * [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 6 | 🌐 Lua | 📅 2026-07-16 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 35 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
@@ -106,7 +106,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Lua
 
-* [lume](https://github.com/rxi/lume) ⭐ 1,241 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
+* [lume](https://github.com/rxi/lume) ⭐ 1,242 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
 * [batteries](https://github.com/1bardesign/batteries) ⭐ 436 | 🐛 4 | 🌐 Lua | 📅 2026-08-27 - Reusable dependencies for games made with lua.
 * [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
