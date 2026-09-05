@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1242,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:33:30.152Z",
+    "last_updated": "2026-09-05T16:44:52.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
