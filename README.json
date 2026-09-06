@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Fernando-A-Rocha",
             "repo": "mta-add-models",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "add",
               "andreas",
@@ -293,7 +293,7 @@
             "open_issues": 3,
             "owner": "Fernando-A-Rocha",
             "repo": "mta-add-models",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "add",
               "andreas",
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1243,
+            "stars": 1242,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:44:52.760Z",
+    "last_updated": "2026-09-06T16:54:11.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
