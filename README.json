@@ -877,8 +877,8 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-04T13:43:20Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-07T17:58:05Z",
+            "open_issues": 19,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 185,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T16:54:11.421Z",
+    "last_updated": "2026-09-07T18:41:50.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
