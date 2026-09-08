@@ -877,7 +877,7 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-07T17:58:05Z",
+            "last_commit": "2026-09-08T10:55:04Z",
             "open_issues": 19,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
@@ -1007,7 +1007,7 @@
             "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "gaming",
               "gta",
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1242,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1435,8 +1435,8 @@
             "id": 236895355,
             "language": "Lua",
             "license": "Zlib",
-            "last_commit": "2026-08-27T05:55:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-08T01:16:25Z",
+            "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
             "stars": 436,
@@ -1509,6 +1509,27 @@
         },
         {
           "node_type": "item",
+          "title": "Slipe Server",
+          "description": "C# implementation of an MTA San Andreas Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "C# MTA Server",
+            "homepage": null,
+            "id": 274758941,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-08-16T16:43:12Z",
+            "open_issues": 72,
+            "owner": "mta-slipe",
+            "repo": "Slipe-Server",
+            "stars": 39,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
           "title": "Slipe",
           "description": "C# support for MTA.",
           "children": [],
@@ -1528,27 +1549,6 @@
               "csharplua",
               "mtasa"
             ]
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Slipe Server",
-          "description": "C# implementation of an MTA San Andreas Server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "C# MTA Server",
-            "homepage": null,
-            "id": 274758941,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-08-16T16:43:12Z",
-            "open_issues": 72,
-            "owner": "mta-slipe",
-            "repo": "Slipe-Server",
-            "stars": 38,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:41:50.660Z",
+    "last_updated": "2026-09-08T17:52:23.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
