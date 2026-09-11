@@ -1439,7 +1439,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "framework",
               "helper",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:38:51.366Z",
+    "last_updated": "2026-09-11T17:43:24.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
@@ -1826,7 +1826,7 @@
       "open_issues": 1,
       "owner": "AlexRazor1337",
       "repo": "awesome-mta-sa",
-      "stars": 92,
+      "stars": 93,
       "topics": [
         "awesome",
         "awesome-list",
