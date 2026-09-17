@@ -1435,7 +1435,7 @@
             "id": 236895355,
             "language": "Lua",
             "license": "Zlib",
-            "last_commit": "2026-09-08T01:16:25Z",
+            "last_commit": "2026-09-17T04:42:08Z",
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:08:06.461Z",
+    "last_updated": "2026-09-17T18:08:28.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
