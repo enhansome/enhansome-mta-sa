@@ -909,7 +909,7 @@
             "open_issues": 6,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
-            "stars": 37,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:24:19.150Z",
+    "last_updated": "2026-09-21T19:17:41.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
