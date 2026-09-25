@@ -48,7 +48,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Libs and utils
 
 * [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 83 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - Lets you add new models to your server.
-* [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 4 | 🌐 Lua | 📅 2026-09-24 - Thisdp's Dx Graphical User Interface System.
+* [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 3 | 🌐 Lua | 📅 2026-09-25 - Thisdp's Dx Graphical User Interface System.
 * [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 37 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
 * [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 22 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
 * [3D-editor](https://github.com/Derbosik/3DEditor) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2025-01-23 - Easy-to-use tool for editing 3D objects positions.
@@ -75,7 +75,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Resource collections
 
-* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 185 | 🐛 20 | 🌐 Lua | 📅 2026-09-22 - List of up-to-date resources that come with Multi Theft Auto.
+* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 185 | 🐛 23 | 🌐 Lua | 📅 2026-09-22 - List of up-to-date resources that come with Multi Theft Auto.
 * [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 36 | 🐛 6 | 🌐 Lua | 📅 2026-07-16 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 35 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
@@ -83,7 +83,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Gamemodes
 
-* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 116 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
+* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 117 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
 * [mtadayz](https://github.com/NullSystemWorks/mtadayz) ⚠️ Archived - Official MTA:DayZ Repository.
 * [XyzzyRP](https://github.com/lpiob/MTA-XyzzyRP) ⭐ 48 | 🐛 267 | 🌐 PHP | 📅 2023-08-17 - RP gamemode  for MTA, written mainly in LUA, based on the MySQL database.
 * [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) ⚠️ Archived - Racing roleplay gamemode for Multi Theft Auto.
@@ -106,7 +106,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Lua
 
-* [lume](https://github.com/rxi/lume) ⭐ 1,244 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
+* [lume](https://github.com/rxi/lume) ⭐ 1,245 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
 * [batteries](https://github.com/1bardesign/batteries) ⭐ 437 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Reusable dependencies for games made with lua.
 * [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

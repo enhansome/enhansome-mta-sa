@@ -326,8 +326,8 @@
             "id": 98091929,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-24T01:52:10Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-25T03:11:36Z",
+            "open_issues": 3,
             "owner": "thisdp",
             "repo": "dgs",
             "stars": 65,
@@ -878,7 +878,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-22T10:47:37Z",
-            "open_issues": 20,
+            "open_issues": 23,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 185,
@@ -1007,7 +1007,7 @@
             "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "gaming",
               "gta",
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:23:12.792Z",
+    "last_updated": "2026-09-25T18:29:06.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
