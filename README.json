@@ -956,7 +956,7 @@
             "open_issues": 0,
             "owner": "jlillis",
             "repo": "crystalmv-resources",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "lua",
               "mtasa"
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1245,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:16:35.864Z",
+    "last_updated": "2026-09-28T20:30:21.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
