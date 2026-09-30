@@ -877,8 +877,8 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-22T10:47:37Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-30T14:15:23Z",
+            "open_issues": 17,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 185,
@@ -909,7 +909,7 @@
             "open_issues": 6,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1439,7 +1439,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "framework",
               "helper",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:18:46.464Z",
+    "last_updated": "2026-09-30T19:06:27.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
