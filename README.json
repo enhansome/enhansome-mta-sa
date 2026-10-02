@@ -1007,7 +1007,7 @@
             "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "gaming",
               "gta",
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1245,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:26:43.964Z",
+    "last_updated": "2026-10-02T19:10:00.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
