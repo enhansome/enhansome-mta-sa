@@ -107,13 +107,13 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Lua
 
 * [lume](https://github.com/rxi/lume) ⭐ 1,246 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
-* [batteries](https://github.com/1bardesign/batteries) ⭐ 438 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Reusable dependencies for games made with lua.
+* [batteries](https://github.com/1bardesign/batteries) ⭐ 439 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Reusable dependencies for games made with lua.
 * [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
 ## Other
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 72 | 🌐 C# | 📅 2026-08-16 - C# implementation of an MTA San Andreas Server.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 71 | 🌐 C# | 📅 2026-10-05 - C# implementation of an MTA San Andreas Server.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
