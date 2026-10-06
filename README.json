@@ -1439,7 +1439,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 439,
+            "stars": 438,
             "topics": [
               "framework",
               "helper",
@@ -1519,8 +1519,8 @@
             "id": 274758941,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-05T20:11:42Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-06T17:02:41Z",
+            "open_issues": 57,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
             "stars": 39,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:58.197Z",
+    "last_updated": "2026-10-06T19:26:36.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
