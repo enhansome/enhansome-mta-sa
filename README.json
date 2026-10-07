@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "rifleh700",
             "repo": "gradmin",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "admin",
               "lua",
@@ -1519,7 +1519,7 @@
             "id": 274758941,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T17:02:41Z",
+            "last_commit": "2026-10-07T16:38:22Z",
             "open_issues": 57,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:26:36.037Z",
+    "last_updated": "2026-10-07T19:53:03.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",

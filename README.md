@@ -31,7 +31,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 * [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 83 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - easy loading of new models, custom editor to place new objects.
 * [mtasa-chat2](https://github.com/nrzull/mtasa-chat2) ⚠️ Archived - CEF implementation of MTA:SA chat with some new features.
-* [gradmin](https://github.com/rifleh700/gradmin) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2021-07-10 - Alternative admin panel for MTA:SA.
+* [gradmin](https://github.com/rifleh700/gradmin) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2021-07-10 - Alternative admin panel for MTA:SA.
 * [aibots](https://github.com/DimDey/aibots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2020-11-15 - A resource for manipulating and creating an artificial player who can shoot, chase or search for his target.
 * [lockpick](https://github.com/httpRick/lockpick) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2021-10-13 - Lockpicking mechanics like from other games.
 * [mta-cl\_performance](https://github.com/jmcdutra/mta-cl_performance) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2021-12-13 - performance monitor similar to FiveM.
@@ -113,7 +113,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Other
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 57 | 🌐 C# | 📅 2026-10-06 - C# implementation of an MTA San Andreas Server.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 57 | 🌐 C# | 📅 2026-10-07 - C# implementation of an MTA San Andreas Server.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
