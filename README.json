@@ -877,8 +877,8 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:15:23Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-10T19:53:41Z",
+            "open_issues": 16,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 185,
@@ -1264,7 +1264,7 @@
             "language": "Lua",
             "license": null,
             "last_commit": "2023-07-09T16:55:54Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "Vadya963",
             "repo": "MTA-map_mafia2",
             "stars": 25,
@@ -1418,7 +1418,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1246,
+            "stars": 1247,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:27:25.259Z",
+    "last_updated": "2026-10-11T18:47:08.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
