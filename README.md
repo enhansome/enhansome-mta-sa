@@ -89,7 +89,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 * [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) ⚠️ Archived - Racing roleplay gamemode for Multi Theft Auto.
 * [MTA: The Exclusion Zone](https://github.com/tederis/theexzone) ⭐ 18 | 🐛 0 | 🌐 TeX | 📅 2020-02-17 - MTA: The Exclusion Zone, Stalker inspired server.
 * [Vultaic-MGM](https://github.com/DizzasTeR/Vultaic-MGM) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2022-11-07 - Vultaic Multigamemode for MTA:SA.
-* [Dystopia: The Incident](https://github.com/Zorangeorge/MTA-Dystopia-The-Incident) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2023-04-11 - A story-driven zombie post-apocalyptic MMO-RPG for the MTA San Andreas platform.
+* [Dystopia: The Incident](https://github.com/Zorangeorge/MTA-Dystopia-The-Incident) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2023-04-11 - A story-driven zombie post-apocalyptic MMO-RPG for the MTA San Andreas platform.
 * [jericho](https://github.com/WorriedMan/-jericho-) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2016-10-10 - Fallout inspired post-apocalyptic server.
 * [Rust MTA](https://github.com/alcoholiclobster/rust-mta) ⚠️ Archived - Rust inspired gamemode.
 * [MTA War](https://github.com/Wolfee-J/MTA_War) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2020-11-26 - Halo inspired gamemode.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

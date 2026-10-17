@@ -1153,7 +1153,7 @@
             "open_issues": 1,
             "owner": "Zorangeorge",
             "repo": "MTA-Dystopia-The-Incident",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:56:59.506Z",
+    "last_updated": "2026-10-17T17:00:29.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
