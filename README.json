@@ -1415,7 +1415,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2023-11-19T23:59:15Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
             "stars": 1245,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:47:15.039Z",
+    "last_updated": "2026-10-20T18:25:22.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
