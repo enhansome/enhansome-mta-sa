@@ -1519,7 +1519,7 @@
             "id": 274758941,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:58:27Z",
+            "last_commit": "2026-10-20T21:22:43Z",
             "open_issues": 58,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:25:22.070Z",
+    "last_updated": "2026-10-21T18:32:50.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
