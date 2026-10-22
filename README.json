@@ -491,7 +491,7 @@
             "open_issues": 0,
             "owner": "botder",
             "repo": "mtasa-bootloader",
-            "stars": 15,
+            "stars": 14,
             "topics": [
               "bootloader",
               "lua",
@@ -877,8 +877,8 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-10T19:53:41Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-21T20:36:36Z",
+            "open_issues": 15,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 184,
@@ -1007,7 +1007,7 @@
             "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "gaming",
               "gta",
@@ -1418,7 +1418,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1245,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1519,8 +1519,8 @@
             "id": 274758941,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-20T21:22:43Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-21T19:58:12Z",
+            "open_issues": 59,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
             "stars": 39,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:32:50.906Z",
+    "last_updated": "2026-10-22T18:28:04.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
