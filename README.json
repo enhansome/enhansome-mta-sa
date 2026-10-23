@@ -930,7 +930,7 @@
             "open_issues": 0,
             "owner": "tederis",
             "repo": "mta-resources",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "gta",
               "mtasa",
@@ -1519,8 +1519,8 @@
             "id": 274758941,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-21T19:58:12Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-22T19:45:53Z",
+            "open_issues": 58,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
             "stars": 39,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:28:04.580Z",
+    "last_updated": "2026-10-23T18:14:28.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
