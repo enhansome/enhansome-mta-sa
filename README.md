@@ -113,7 +113,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Other
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 58 | 🌐 C# | 📅 2026-10-22 - C# implementation of an MTA San Andreas Server.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 57 | 🌐 C# | 📅 2026-10-23 - C# implementation of an MTA San Andreas Server.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
