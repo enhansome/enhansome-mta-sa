@@ -906,7 +906,7 @@
             "language": "Lua",
             "license": null,
             "last_commit": "2026-10-10T08:56:10Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
             "stars": 37,
@@ -1007,7 +1007,7 @@
             "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "gaming",
               "gta",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:21:30.425Z",
+    "last_updated": "2026-10-25T17:35:26.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",

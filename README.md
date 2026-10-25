@@ -76,14 +76,14 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Resource collections
 
 * [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 184 | 🐛 15 | 🌐 Lua | 📅 2026-10-21 - List of up-to-date resources that come with Multi Theft Auto.
-* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 6 | 🌐 Lua | 📅 2026-10-10 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
+* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 8 | 🌐 Lua | 📅 2026-10-10 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 36 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
 * [mtapub](https://github.com/truestm/mtapub) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2020-04-03 - Collection of various MTA resources by stm.
 
 ## Gamemodes
 
-* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 119 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
+* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 120 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
 * [mtadayz](https://github.com/NullSystemWorks/mtadayz) ⚠️ Archived - Official MTA:DayZ Repository.
 * [XyzzyRP](https://github.com/lpiob/MTA-XyzzyRP) ⭐ 48 | 🐛 267 | 🌐 PHP | 📅 2023-08-17 - RP gamemode  for MTA, written mainly in LUA, based on the MySQL database.
 * [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) ⚠️ Archived - Racing roleplay gamemode for Multi Theft Auto.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
