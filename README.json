@@ -905,8 +905,8 @@
             "id": 43056710,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-10T08:56:10Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-28T16:49:13Z",
+            "open_issues": 6,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
             "stars": 37,
@@ -1439,7 +1439,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 438,
+            "stars": 437,
             "topics": [
               "framework",
               "helper",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:22:13.089Z",
+    "last_updated": "2026-10-28T19:27:27.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",

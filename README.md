@@ -76,7 +76,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Resource collections
 
 * [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 184 | 🐛 15 | 🌐 Lua | 📅 2026-10-21 - List of up-to-date resources that come with Multi Theft Auto.
-* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 8 | 🌐 Lua | 📅 2026-10-10 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
+* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 6 | 🌐 Lua | 📅 2026-10-28 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 36 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
 * [mtapub](https://github.com/truestm/mtapub) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2020-04-03 - Collection of various MTA resources by stm.
@@ -107,7 +107,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Lua
 
 * [lume](https://github.com/rxi/lume) ⭐ 1,247 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - Lua functions geared towards gamedev.
-* [batteries](https://github.com/1bardesign/batteries) ⭐ 438 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Reusable dependencies for games made with lua.
+* [batteries](https://github.com/1bardesign/batteries) ⭐ 437 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Reusable dependencies for games made with lua.
 * [lua-class](https://github.com/misterquestions/lua-class) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2022-02-18 - A library to add support for OOP on Lua with a really nice and elegant style.
 
 ## Other
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
