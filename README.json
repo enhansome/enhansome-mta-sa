@@ -906,7 +906,7 @@
             "language": "Lua",
             "license": null,
             "last_commit": "2026-10-28T16:49:13Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
             "stars": 37,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:27:27.430Z",
+    "last_updated": "2026-10-29T19:31:28.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
