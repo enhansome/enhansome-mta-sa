@@ -881,7 +881,7 @@
             "open_issues": 15,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "lua",
               "mtasa",
@@ -905,8 +905,8 @@
             "id": 43056710,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-28T16:49:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-30T11:48:05Z",
+            "open_issues": 3,
             "owner": "MrGreenGaming",
             "repo": "MTA-Resources",
             "stars": 37,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:31:28.656Z",
+    "last_updated": "2026-10-30T19:10:08.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
