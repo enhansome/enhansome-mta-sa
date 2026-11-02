@@ -351,7 +351,7 @@
             "open_issues": 1,
             "owner": "gptrk0",
             "repo": "mtasa-pAttach",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -881,7 +881,7 @@
             "open_issues": 15,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "lua",
               "mtasa",
@@ -1418,7 +1418,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1247,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:51:35.012Z",
+    "last_updated": "2026-11-02T22:42:38.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
