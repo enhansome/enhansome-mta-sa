@@ -31,8 +31,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 * [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 83 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - easy loading of new models, custom editor to place new objects.
 * [mtasa-chat2](https://github.com/nrzull/mtasa-chat2) ⚠️ Archived - CEF implementation of MTA:SA chat with some new features.
-* [gradmin](https://github.com/rifleh700/gradmin) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2021-07-10 - Alternative admin panel for MTA:SA.
-* [aibots](https://github.com/DimDey/aibots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2020-11-15 - A resource for manipulating and creating an artificial player who can shoot, chase or search for his target.
+* [gradmin](https://github.com/rifleh700/gradmin) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2021-07-10 - Alternative admin panel for MTA:SA.
+* [aibots](https://github.com/DimDey/aibots) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2020-11-15 - A resource for manipulating and creating an artificial player who can shoot, chase or search for his target.
 * [lockpick](https://github.com/httpRick/lockpick) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2021-10-13 - Lockpicking mechanics like from other games.
 * [mta-cl\_performance](https://github.com/jmcdutra/mta-cl_performance) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2021-12-13 - performance monitor similar to FiveM.
 * [mtasa remastered hud](https://github.com/Haxardous/mtasa-remastered-hud) ⭐ 3 | 🐛 4 | 🌐 Lua | 📅 2019-08-20 - HD remastered original HUD.
@@ -40,21 +40,21 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Shaders
 
-* [MTASA-SkyGfx](https://github.com/gta191977649/MTASA-SkyGfx) ⭐ 31 | 🐛 3 | 🌐 Lua | 📅 2024-10-24 - A project that brings the classic aesthetic look to MTA.
-* [MTA-Anime-Shader](https://github.com/gta191977649/MTA-Anime-Shader) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2022-06-12 -  Anime Toon shader.
+* [MTASA-SkyGfx](https://github.com/gta191977649/MTASA-SkyGfx) ⭐ 30 | 🐛 3 | 🌐 Lua | 📅 2024-10-24 - A project that brings the classic aesthetic look to MTA.
 * [MTA-VHS](https://github.com/gta191977649/MTA-VHS) ⭐ 8 | 🐛 0 | 🌐 HLSL | 📅 2021-05-24 - A VHS effect shader.
-* [MTA-PS2](https://github.com/gta191977649/MTA-PS2) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2021-04-06 - PS2-like shader for MTA:SA.
+* [MTA-Anime-Shader](https://github.com/gta191977649/MTA-Anime-Shader) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2022-06-12 -  Anime Toon shader.
+* [MTA-PS2](https://github.com/gta191977649/MTA-PS2) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2021-04-06 - PS2-like shader for MTA:SA.
 
 ## Libs and utils
 
 * [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models) ⭐ 83 | 🐛 3 | 🌐 Lua | 📅 2026-08-26 - Lets you add new models to your server.
 * [dgs](https://github.com/thisdp/dgs) ⭐ 65 | 🐛 3 | 🌐 Lua | 📅 2026-09-25 - Thisdp's Dx Graphical User Interface System.
-* [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 38 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
-* [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 22 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
-* [3D-editor](https://github.com/Derbosik/3DEditor) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2025-01-23 - Easy-to-use tool for editing 3D objects positions.
+* [pAttach](https://github.com/Patrick2562/mtasa-pAttach) ⭐ 39 | 🐛 1 | 🌐 Lua | 📅 2026-03-31 - Optimized bone attach using new MTA functions/events.
+* [Beautify](https://github.com/ov-sa/Beautify-Library) ⭐ 21 | 🐛 5 | 🌐 Lua | 📅 2024-03-07 -  DX based powerful UI library.
 * [MTA-dxGUI](https://github.com/TheNormalnij/MTA-dxGUI) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2022-02-28 - Cool and powerfull dxGUI library for MTA.
-* [MTA\_2FA-lib](https://github.com/Inder00/MTA_2FA-lib) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2021-05-17 - Two factor auth library.
+* [3D-editor](https://github.com/Derbosik/3DEditor) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2025-01-23 - Easy-to-use tool for editing 3D objects positions.
 * [ConGuard](https://github.com/Lpsd/ConGuard) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2022-08-11 - Network/connection helper for MTA:SA.
+* [MTA\_2FA-lib](https://github.com/Inder00/MTA_2FA-lib) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2021-05-17 - Two factor auth library.
 * [Bootloader](https://github.com/botder/mtasa-bootloader) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2021-06-25 - A resource for server bootloading and resource keep-alive.
 * [DBify](https://github.com/ov-sa/DBify-Library) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2024-03-07 - MySQL based Async database management library.
 * [mta-discord-webhook-library](https://github.com/FilexGH/mta-discord-webhook-library) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2020-08-17 - Discord Webhook API for MTA servers.
@@ -65,8 +65,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 * [SA Menu](https://github.com/httpRick/SA-Menu) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2019-09-24 - GTA:SA like menu.
 * [mtasa-resource-compiler](https://github.com/cleoppa/mtasa-resource-compiler) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2021-05-13 - Encrypt all files on your resource.
 * [MTA Escalator](https://github.com/jayceon123/mta-escalator) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2021-07-08 - Reverse Engineered GTA:SA Escalators in Lua.
-* [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) ⚠️ Archived - GTA:V style menus.
 * [MTA SAMP OBJ](https://github.com/Fernando-A-Rocha/MTA-SAMP-OBJ) ⭐ 5 | 🐛 0 | 📅 2021-11-20 - Load SAMP maps(supporting maps exported with TextureStudio and even with custom models)
+* [MTASA NativeUI](https://github.com/Allerek/MTASA-NativeUI) ⚠️ Archived - GTA:V style menus.
 * [editor\_addon\_lights](https://github.com/patrikjuvonen/editor_addon_lights) ⚠️ Archived - Add Ren712 lights using a default map editor.
 * [mtasa-utilities](https://github.com/Loki214/mtasa-utilities) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-08-24 - Some utilities(graphics, perlin noise, sockets and etc).
 * [MTA Indicators](https://github.com/forkerer/MTA-indicators) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2018-02-21 - Indicators system written in lua, able to display hundreds of indicators without lags.
@@ -75,7 +75,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Resource collections
 
-* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 186 | 🐛 15 | 🌐 Lua | 📅 2026-10-21 - List of up-to-date resources that come with Multi Theft Auto.
+* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 182 | 🐛 15 | 🌐 Lua | 📅 2026-10-21 - List of up-to-date resources that come with Multi Theft Auto.
 * [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 3 | 🌐 Lua | 📅 2026-10-30 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 36 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
@@ -83,7 +83,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Gamemodes
 
-* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 120 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
+* [OwlGamingCommunity MTA](https://github.com/OwlGamingCommunity/MTA) ⭐ 117 | 🐛 13 | 🌐 Lua | 📅 2024-06-21 - OwlGaming roleplay server.
 * [mtadayz](https://github.com/NullSystemWorks/mtadayz) ⚠️ Archived - Official MTA:DayZ Repository.
 * [XyzzyRP](https://github.com/lpiob/MTA-XyzzyRP) ⭐ 48 | 🐛 267 | 🌐 PHP | 📅 2023-08-17 - RP gamemode  for MTA, written mainly in LUA, based on the MySQL database.
 * [Drift Paradise](https://github.com/alcoholiclobster/drift-paradise-mta) ⚠️ Archived - Racing roleplay gamemode for Multi Theft Auto.
@@ -113,8 +113,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Other
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 39 | 🐛 58 | 🌐 C# | 📅 2026-11-04 - C# implementation of an MTA San Andreas Server.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 58 | 🌐 C# | 📅 2026-11-04 - C# implementation of an MTA San Andreas Server.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 * [mtasa-docker](https://github.com/4O4/mtasa-docker) ⭐ 21 | 🐛 2 | 🌐 Shell | 📅 2024-09-09 - Unofficial Docker image for MTA:SA game server.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

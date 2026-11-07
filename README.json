@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "rifleh700",
             "repo": "gradmin",
-            "stars": 12,
+            "stars": 11,
             "topics": [
               "admin",
               "lua",
@@ -109,7 +109,7 @@
             "open_issues": 0,
             "owner": "DimDey",
             "repo": "aibots",
-            "stars": 7,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -203,28 +203,7 @@
             "open_issues": 3,
             "owner": "gta191977649",
             "repo": "MTASA-SkyGfx",
-            "stars": 31,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MTA-Anime-Shader",
-          "description": "Anime Toon shader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Anime Toon shader for MTASA",
-            "homepage": null,
-            "id": 466763665,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2022-06-12T13:06:19Z",
-            "open_issues": 0,
-            "owner": "gta191977649",
-            "repo": "MTA-Anime-Shader",
-            "stars": 9,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -252,6 +231,27 @@
         },
         {
           "node_type": "item",
+          "title": "MTA-Anime-Shader",
+          "description": "Anime Toon shader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Anime Toon shader for MTASA",
+            "homepage": null,
+            "id": 466763665,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2022-06-12T13:06:19Z",
+            "open_issues": 0,
+            "owner": "gta191977649",
+            "repo": "MTA-Anime-Shader",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
           "title": "MTA-PS2",
           "description": "PS2-like shader for MTA:SA.",
           "children": [],
@@ -266,7 +266,7 @@
             "open_issues": 0,
             "owner": "gta191977649",
             "repo": "MTA-PS2",
-            "stars": 7,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -351,7 +351,7 @@
             "open_issues": 1,
             "owner": "gptrk0",
             "repo": "mtasa-pAttach",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -372,7 +372,7 @@
             "open_issues": 5,
             "owner": "ov-sa",
             "repo": "Beautify.library",
-            "stars": 22,
+            "stars": 21,
             "topics": [
               "design",
               "library",
@@ -380,27 +380,6 @@
               "ov",
               "ui"
             ]
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
-          "title": "3D-editor",
-          "description": "Easy-to-use tool for editing 3D objects positions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 677131577,
-            "language": "Lua",
-            "license": "GPL-3.0",
-            "last_commit": "2025-01-23T11:03:20Z",
-            "open_issues": 0,
-            "owner": "YelehaUwU",
-            "repo": "3DEditor",
-            "stars": 19,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -429,28 +408,22 @@
         },
         {
           "node_type": "item",
-          "title": "MTA_2FA-lib",
-          "description": "Two factor auth library.",
+          "title": "3D-editor",
+          "description": "Easy-to-use tool for editing 3D objects positions.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Two factor library (MTA:SA Lib)",
+            "description": null,
             "homepage": null,
-            "id": 368281260,
+            "id": 677131577,
             "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2021-05-17T18:39:55Z",
+            "license": "GPL-3.0",
+            "last_commit": "2025-01-23T11:03:20Z",
             "open_issues": 0,
-            "owner": "MultiRPG",
-            "repo": "MTA_2FA-Lib",
+            "owner": "YelehaUwU",
+            "repo": "3DEditor",
             "stars": 18,
-            "topics": [
-              "lua",
-              "mta",
-              "mta-server",
-              "mtasa",
-              "mtasa-lua"
-            ]
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -472,6 +445,33 @@
             "repo": "ConGuard",
             "stars": 17,
             "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MTA_2FA-lib",
+          "description": "Two factor auth library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Two factor library (MTA:SA Lib)",
+            "homepage": null,
+            "id": 368281260,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2021-05-17T18:39:55Z",
+            "open_issues": 0,
+            "owner": "MultiRPG",
+            "repo": "MTA_2FA-Lib",
+            "stars": 17,
+            "topics": [
+              "lua",
+              "mta",
+              "mta-server",
+              "mtasa",
+              "mtasa-lua"
+            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -720,27 +720,6 @@
         },
         {
           "node_type": "item",
-          "title": "MTASA NativeUI",
-          "description": "GTA:V style menus.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 207027424,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2020-07-05T14:41:59Z",
-            "open_issues": 4,
-            "owner": "Allerek",
-            "repo": "MTASA-NativeUI",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
           "title": "MTA SAMP OBJ",
           "description": "Load SAMP maps(supporting maps exported with TextureStudio and even with custom models)",
           "children": [],
@@ -764,6 +743,27 @@
               "samp",
               "san"
             ]
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MTASA NativeUI",
+          "description": "GTA:V style menus.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": null,
+            "homepage": null,
+            "id": 207027424,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2020-07-05T14:41:59Z",
+            "open_issues": 4,
+            "owner": "Allerek",
+            "repo": "MTASA-NativeUI",
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -881,7 +881,7 @@
             "open_issues": 15,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
-            "stars": 186,
+            "stars": 182,
             "topics": [
               "lua",
               "mtasa",
@@ -1007,7 +1007,7 @@
             "open_issues": 13,
             "owner": "OwlGamingCommunity",
             "repo": "MTA",
-            "stars": 120,
+            "stars": 117,
             "topics": [
               "gaming",
               "gta",
@@ -1509,27 +1509,6 @@
         },
         {
           "node_type": "item",
-          "title": "Slipe Server",
-          "description": "C# implementation of an MTA San Andreas Server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "C# MTA Server",
-            "homepage": null,
-            "id": 274758941,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-11-04T01:28:22Z",
-            "open_issues": 58,
-            "owner": "mta-slipe",
-            "repo": "Slipe-Server",
-            "stars": 39,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
           "title": "Slipe",
           "description": "C# support for MTA.",
           "children": [],
@@ -1549,6 +1528,27 @@
               "csharplua",
               "mtasa"
             ]
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Slipe Server",
+          "description": "C# implementation of an MTA San Andreas Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "C# MTA Server",
+            "homepage": null,
+            "id": 274758941,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-04T01:28:22Z",
+            "open_issues": 58,
+            "owner": "mta-slipe",
+            "repo": "Slipe-Server",
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:22:58.205Z",
+    "last_updated": "2026-11-07T18:39:44.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
