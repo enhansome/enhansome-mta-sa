@@ -76,8 +76,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Resource collections
 
 * [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 182 | 🐛 15 | 🌐 Lua | 📅 2026-10-21 - List of up-to-date resources that come with Multi Theft Auto.
-* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 3 | 🌐 Lua | 📅 2026-10-30 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 36 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
+* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 36 | 🐛 3 | 🌐 Lua | 📅 2026-10-30 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
 * [mtapub](https://github.com/truestm/mtapub) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2020-04-03 - Collection of various MTA resources by stm.
 
@@ -114,7 +114,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 58 | 🌐 C# | 📅 2026-11-04 - C# implementation of an MTA San Andreas Server.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 60 | 🌐 C# | 📅 2026-11-10 - C# implementation of an MTA San Andreas Server.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 * [mtasa-docker](https://github.com/4O4/mtasa-docker) ⭐ 21 | 🐛 2 | 🌐 Shell | 📅 2024-09-09 - Unofficial Docker image for MTA:SA game server.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

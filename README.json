@@ -895,27 +895,6 @@
         },
         {
           "node_type": "item",
-          "title": "Mr.Green-MTA-Resources",
-          "description": "All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).",
-            "homepage": "https://mrgreengaming.com",
-            "id": 43056710,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-10-30T11:48:05Z",
-            "open_issues": 3,
-            "owner": "MrGreenGaming",
-            "repo": "MTA-Resources",
-            "stars": 37,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
           "title": "mta-resources",
           "description": "Collection of various resources for MTA by Tederis.",
           "children": [],
@@ -937,6 +916,27 @@
               "tct",
               "terrain-editor"
             ]
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mr.Green-MTA-Resources",
+          "description": "All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).",
+            "homepage": "https://mrgreengaming.com",
+            "id": 43056710,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-10-30T11:48:05Z",
+            "open_issues": 3,
+            "owner": "MrGreenGaming",
+            "repo": "MTA-Resources",
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1543,8 +1543,8 @@
             "id": 274758941,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-04T01:28:22Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-10T19:03:47Z",
+            "open_issues": 60,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
             "stars": 38,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:22:58.399Z",
+    "last_updated": "2026-11-10T20:45:35.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
