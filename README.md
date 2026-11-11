@@ -75,7 +75,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Resource collections
 
-* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 182 | 🐛 15 | 🌐 Lua | 📅 2026-10-21 - List of up-to-date resources that come with Multi Theft Auto.
+* [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 182 | 🐛 14 | 🌐 Lua | 📅 2026-11-11 - List of up-to-date resources that come with Multi Theft Auto.
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 36 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
 * [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 36 | 🐛 3 | 🌐 Lua | 📅 2026-10-30 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
@@ -96,7 +96,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Maps
 
-* [MTA-VCS](https://github.com/gta191977649/MTA-VCS) ⭐ 29 | 🐛 2 | 🌐 Lua | 📅 2024-04-12 - Vice City Stories map for use with [MTA Stream Improved](https://github.com/gta191977649/MTA-Stream) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2022-02-08.
+* [MTA-VCS](https://github.com/gta191977649/MTA-VCS) ⭐ 30 | 🐛 2 | 🌐 Lua | 📅 2024-04-12 - Vice City Stories map for use with [MTA Stream Improved](https://github.com/gta191977649/MTA-Stream) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2022-02-08.
 * [MTA-map mafia2](https://github.com/Vadya963/MTA-map_mafia2) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2023-07-09 - Mafia 2 map convert to MTA.
 * [JVice City](https://github.com/Wolfee-J/MTA-Vice-City) ⭐ 17 | 🐛 2 | 🌐 Lua | 📅 2020-07-01 - Vice City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08.
 * [JLiberty City](https://github.com/Wolfee-J/JLiberty-City) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2020-07-01 - Liberty City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

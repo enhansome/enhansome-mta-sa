@@ -877,8 +877,8 @@
             "id": 32398265,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-21T20:36:36Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-11T20:31:14Z",
+            "open_issues": 14,
             "owner": "multitheftauto",
             "repo": "mtasa-resources",
             "stars": 182,
@@ -1246,7 +1246,7 @@
             "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:45:35.088Z",
+    "last_updated": "2026-11-11T21:15:32.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
@@ -1826,7 +1826,7 @@
       "open_issues": 1,
       "owner": "AlexRazor1337",
       "repo": "awesome-mta-sa",
-      "stars": 93,
+      "stars": 94,
       "topics": [
         "awesome",
         "awesome-list",
