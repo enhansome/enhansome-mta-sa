@@ -491,7 +491,7 @@
             "open_issues": 0,
             "owner": "botder",
             "repo": "mtasa-bootloader",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "bootloader",
               "lua",
@@ -1544,7 +1544,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-10T19:03:47Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "mta-slipe",
             "repo": "Slipe-Server",
             "stars": 38,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:15:32.906Z",
+    "last_updated": "2026-11-12T21:24:40.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",

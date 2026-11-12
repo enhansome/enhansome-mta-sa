@@ -55,7 +55,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 * [3D-editor](https://github.com/Derbosik/3DEditor) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2025-01-23 - Easy-to-use tool for editing 3D objects positions.
 * [ConGuard](https://github.com/Lpsd/ConGuard) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2022-08-11 - Network/connection helper for MTA:SA.
 * [MTA\_2FA-lib](https://github.com/Inder00/MTA_2FA-lib) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2021-05-17 - Two factor auth library.
-* [Bootloader](https://github.com/botder/mtasa-bootloader) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2021-06-25 - A resource for server bootloading and resource keep-alive.
+* [Bootloader](https://github.com/botder/mtasa-bootloader) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2021-06-25 - A resource for server bootloading and resource keep-alive.
 * [DBify](https://github.com/ov-sa/DBify-Library) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2024-03-07 - MySQL based Async database management library.
 * [mta-discord-webhook-library](https://github.com/FilexGH/mta-discord-webhook-library) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2020-08-17 - Discord Webhook API for MTA servers.
 * [MTA-BinaryDataTools](https://github.com/forkerer/MTA-BinaryDataTools) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2018-07-22 - This resource gives ability to work on binary data formats.
@@ -114,7 +114,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 * [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
-* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 60 | 🌐 C# | 📅 2026-11-10 - C# implementation of an MTA San Andreas Server.
+* [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 61 | 🌐 C# | 📅 2026-11-10 - C# implementation of an MTA San Andreas Server.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
 * [vscode-mtalua](https://github.com/Subtixx/vscode-mtalua) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-08 - MTA functions autocompletion and highlighting for VS Code. Version from VS Code is outdated, use this instead.
 * [mtasa-docker](https://github.com/4O4/mtasa-docker) ⭐ 21 | 🐛 2 | 🌐 Shell | 📅 2024-09-09 - Unofficial Docker image for MTA:SA game server.
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
