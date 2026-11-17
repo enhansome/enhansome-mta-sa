@@ -76,8 +76,8 @@ To add any resource just create a pull request. If you are adding a resource, it
 ## Resource collections
 
 * [mtasa-resources](https://github.com/multitheftauto/mtasa-resources) ⭐ 182 | 🐛 15 | 🌐 Lua | 📅 2026-11-15 - List of up-to-date resources that come with Multi Theft Auto.
+* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 37 | 🐛 3 | 🌐 Lua | 📅 2026-10-30 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [mta-resources](https://github.com/tederis/mta-resources) ⭐ 36 | 🐛 0 | 🌐 TeX | 📅 2020-08-30 - Collection of various resources for MTA by Tederis.
-* [Mr.Green-MTA-Resources](https://github.com/MrGreenGaming/MTA-Resources) ⭐ 36 | 🐛 3 | 🌐 Lua | 📅 2026-10-30 - All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).
 * [crystalmv-resources](https://github.com/jlillis/crystalmv-resources) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2023-01-06 - A collection of MTA:SA resources by CrystalMV.
 * [mtapub](https://github.com/truestm/mtapub) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2020-04-03 - Collection of various MTA resources by stm.
 
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
