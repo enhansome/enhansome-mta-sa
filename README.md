@@ -96,7 +96,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Maps
 
-* [MTA-VCS](https://github.com/gta191977649/MTA-VCS) ⭐ 30 | 🐛 2 | 🌐 Lua | 📅 2024-04-12 - Vice City Stories map for use with [MTA Stream Improved](https://github.com/gta191977649/MTA-Stream) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2022-02-08.
+* [MTA-VCS](https://github.com/gta191977649/MTA-VCS) ⭐ 30 | 🐛 2 | 🌐 Lua | 📅 2026-11-18 - Vice City Stories map for use with [MTA Stream Improved](https://github.com/gta191977649/MTA-Stream) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2022-02-08.
 * [MTA-map mafia2](https://github.com/Vadya963/MTA-map_mafia2) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2023-07-09 - Mafia 2 map convert to MTA.
 * [JVice City](https://github.com/Wolfee-J/MTA-Vice-City) ⭐ 17 | 🐛 2 | 🌐 Lua | 📅 2020-07-01 - Vice City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08.
 * [JLiberty City](https://github.com/Wolfee-J/JLiberty-City) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2020-07-01 - Liberty City map for use with [MTA Stream](https://github.com/Wolfee-J/MTA-Stream) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2022-02-08.
@@ -112,7 +112,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Other
 
-* [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-06-24 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
+* [amx](https://github.com/multitheftauto/amx) ⭐ 41 | 🐛 16 | 🌐 C | 📅 2026-11-18 - Allows the execution of unmodified SAMP 0.3.7 gamemodes, filterscripts and plugins.
 * [Slipe](https://github.com/mta-slipe/Slipe-Core) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-11-19 - C# support for MTA.
 * [Slipe Server](https://github.com/mta-slipe/Slipe-Server) ⭐ 38 | 🐛 61 | 🌐 C# | 📅 2026-11-10 - C# implementation of an MTA San Andreas Server.
 * [Navigation module](https://github.com/tederis/mtasa-detour) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2023-10-28 - The server extension for MTA:SA that adds a navigation mesh
@@ -131,4 +131,4 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
