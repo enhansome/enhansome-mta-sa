@@ -1242,7 +1242,7 @@
             "id": 353072700,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-18T10:42:10Z",
+            "last_commit": "2026-11-19T00:30:02Z",
             "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
@@ -1293,7 +1293,7 @@
             "open_issues": 2,
             "owner": "Wolfee-J",
             "repo": "MTA-Vice-City",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "mta-stream",
               "multitheftauto",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:48:35.315Z",
+    "last_updated": "2026-11-19T22:05:15.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
