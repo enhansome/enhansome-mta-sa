@@ -1242,7 +1242,7 @@
             "id": 353072700,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-19T00:30:02Z",
+            "last_commit": "2026-11-20T18:12:30Z",
             "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:05:15.875Z",
+    "last_updated": "2026-11-20T21:45:02.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
