@@ -895,6 +895,32 @@
         },
         {
           "node_type": "item",
+          "title": "mta-resources",
+          "description": "Collection of various resources for MTA by Tederis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Collection of various resources for MTA",
+            "homepage": null,
+            "id": 42399223,
+            "language": "TeX",
+            "license": "GPL-3.0",
+            "last_commit": "2020-08-30T09:34:22Z",
+            "open_issues": 0,
+            "owner": "tederis",
+            "repo": "mta-resources",
+            "stars": 37,
+            "topics": [
+              "gta",
+              "mtasa",
+              "tct",
+              "terrain-editor"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:16.305Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mr.Green-MTA-Resources",
           "description": "All resources used on the Mr. Green Gaming MTA servers (Race & Race Mix).",
           "children": [],
@@ -911,32 +937,6 @@
             "repo": "MTA-Resources",
             "stars": 37,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:16.305Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mta-resources",
-          "description": "Collection of various resources for MTA by Tederis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Collection of various resources for MTA",
-            "homepage": null,
-            "id": 42399223,
-            "language": "TeX",
-            "license": "GPL-3.0",
-            "last_commit": "2020-08-30T09:34:22Z",
-            "open_issues": 0,
-            "owner": "tederis",
-            "repo": "mta-resources",
-            "stars": 36,
-            "topics": [
-              "gta",
-              "mtasa",
-              "tct",
-              "terrain-editor"
-            ]
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
         },
@@ -1242,7 +1242,7 @@
             "id": 353072700,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-20T18:12:30Z",
+            "last_commit": "2026-11-21T04:57:29Z",
             "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:45:02.512Z",
+    "last_updated": "2026-11-21T20:27:20.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
