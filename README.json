@@ -1242,7 +1242,7 @@
             "id": 353072700,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-22T16:59:47Z",
+            "last_commit": "2026-11-25T07:52:51Z",
             "open_issues": 2,
             "owner": "gta191977649",
             "repo": "MTA-VCS",
@@ -1418,7 +1418,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1247,
+            "stars": 1248,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:16.305Z"
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:26:41.684Z",
+    "last_updated": "2026-11-25T23:01:17.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of free/opensource MTA:SA resources.",
